@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "The first release of Reliquary: your collection down to the single card, binders, boxes and decks, prices from Cardmarket and TCGplayer, printed labels, sync between your computers, and daily backups.",
+  "pub_date": "2026-10-22T22:41:39Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWdxME12K0RrSjFNRHFRQUJKN0o1dmJ5c0ZkNWZKVjI1QTRKV2xJb1RvekZua3RWTFNtdzVjVDQ2WVhGcklJTWVhUFYvc1NDUUJmVWJpYlBLNW9FVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA4NzgzCWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMQpLTjFGMVh1NVZaMWtVYlRrcEJ6YzhGSjMzZW5hTTJWeDBMTU5kWm5aeHRyd2ZPeU81a2VEMnJRYjJVSmltMTA1Y0dzWEUxR3hzMXVIOTdVdk9vTytDQT09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.1.1/Reliquary_0.1.1_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWdEYkYyUGZGeXRUQXpONDZBUHZTbEhUSGp6T2pOeHV2aU1nTXoxTXNsMWVPUWh4TUhRbkxLZkRlVmpObXhiNXAzMEUwUmR2eHNWT2RIc3NoTTJYMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA4ODk5CWZpbGU6UmVsaXF1YXJ5XzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpudHhYbDEwZjQzQ2lad3ZTRTBOQVRCb0kvTWRWWlRxUG5LRWE0T2JsMUFydjN6NW43NkttdFFIczN1aEdGanhudDNjVmFkSGhzdzFjUXZTbUk1ME1EUT09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.1.1/Reliquary_0.1.1_x64-setup.exe"
+    }
+  }
+}
