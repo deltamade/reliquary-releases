@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "notes": "Edit Card: put a card right wherever it is, in a deck or a binder (its printing, foil, condition or language), and Remove from Collection for a card that was never really there. A deck card's menu now says exactly what you clicked: Remove sends a real card back where it came from, and Swap For trades it for another of your copies or a proxy in one step. Settings \u203a Sync loads again.",
-  "pub_date": "2026-10-23T10:53:27Z",
+  "version": "0.2.3",
+  "notes": "Products: Discover now shows the decks Wizards sells ready-made, such as Commander precons and Secret Lair drops, with what each is worth and how many of its cards you already own. Add one to your collection in one step: as a deck, as cards in a binder, or as a plan to build from cards you have. Card menus are shorter and about the card you clicked; Remove from Deck puts a card back where it came from, or wherever you choose. The card panel now opens over the page, with a firm press, Show Card Details or \u2318I (Ctrl+I on Windows). Foil cards shine as you scroll. Picking a deck's cards updates it as you go. The Collection count now includes Unsorted, and cards leave the drawer once added.",
+  "pub_date": "2026-10-23T19:28:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNW55NlNZaWM0dWxuc0ZWL01CMXg1cFhSMVpZM0pXNERNZTZtNDFlRlk2Z1J0V2lXeHhaZldKdVRqc0o5YnlheElqeWpPdGk4MkF2L096UUx1Y29tZ1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzUyNjkwCWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMgpZVUVnSjdYemZJL25nYktkRFRJclRJODJwOGVJeEtUSkIybURHeTk5WUJUNTZGemRIQ1AwdzVqdUk2V21qaWVUb0s4clpYUUZIWDBzeHNPRDZ1WjVBUT09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.2/Reliquary_0.2.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWlDZlJKYzZQTllOOEJhM2dFNXg3RE0xdUNmZGljVzJjVitkR0pzdUplR01hbm03anNXRW5VMWlyTG9nTVlQcjVsUjNxc011am40encwMTdRS3FSaXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNTgyCWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMwpOdURxcERrRFZUYnZIaXdTWTM4VDFhOFBGL01IaXhFTGVVYWRiZFhkbWhSN0g1SXAwMW1jL2k3K0JBNHpHamtuU1k3ek56YmtaeFVMTTNXb0lkYVBEdz09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.3/Reliquary_0.2.3_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWxXSXA0ZDJUaVM0ekoyTEpZNkxIU2RWS1lVc0pkSjNPc2FpQU5kSGk2RHRpYWU1NkJOaW5pU1VVaXZSdmZWZ2E1TTIwYUpwbUx3U0NzZ2lDbVkrM0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzUyODA3CWZpbGU6UmVsaXF1YXJ5XzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgp4SE9WbDVrUVc3SzhPZUExMzhybjZZaWNBdi8wWjZLMk80K1JaaUE4UUJFamE4cXZkMGpzMW9QM29TelpIUm5Odm90MXgwQ0NVTlFHcEw0aU13ZXpEQT09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.2/Reliquary_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWhSbDZKMStkWEtOSU5rVDU3Um5SanJaVEMxUktEM3NjakNVdTNxQm5CazdJV0tZNkhDVmljczFEY1JpeGVLNUZNSDhHMVNsYnoxSlorckxFUW1GY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNjk4CWZpbGU6UmVsaXF1YXJ5XzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwp3emNwbVJJYnFTcGE3Ymx0YVozTG40WGZlbmVZbVA4MExIU1hvcTBFVlAxRXVwR08xWDNqUlFKb2h5TlFHUTBSbWdSQlRHVS96MGdJZTI2TG5wU2xCQT09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.3/Reliquary_0.2.3_x64-setup.exe"
     }
   }
 }
