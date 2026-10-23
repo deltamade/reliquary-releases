@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "Settings and the welcome tour, redesigned.\n\n- Settings is grouped into Values, Your collection and Keep it safe, with Done at the foot of the sidebar, clearer choices and shorter help text that opens with More\u2026 when you want the rest.\n- Settings \u203a Sync shows at a glance whether sync is working and what to do if it isn't. Adding a device shows its code in a window of its own, with how long it lasts.\n- The welcome tour is easier to follow: one steady window, a tracker of where you are, and every button in one place.",
-  "pub_date": "2026-10-23T01:13:57Z",
+  "version": "0.2.1",
+  "notes": "Decks: a filter box that searches only the open deck (\u2318F), and Show, to list only what a deck has allocated, what's proxied, or what it still needs. Clicking one printing of a card (one of several Plains, say) now selects just that one, and Return sends back a copy of that printing.",
+  "pub_date": "2026-10-23T08:56:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNXZUUDNRVXZndzNwOWJaSUxXbFBXQ29aTHB4MWtaWFJiWlRrMXdjTWFFczd3ZUtEbXNaaE1SV0NzUmljUUVHNG1zclN5OFExdUFkWjczMFNYbWJUMHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzE3OTM5CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMApuN1VlcC9WYTRxR1I2RzFlNkI2R29ubEFGNDVwU3NwZUNPQ0RwQ2FLU0tLZDRWVlUyV1Z4Y3NNYXBvNVVQTG0rMGZrdWI2Ti9RRzNqR0VQdkxYbFFBZz09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.0/Reliquary_0.2.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWt4WEtxYlFrOW9RZ3lEM0J6L1IrWUVXdTU2UDUraWRHQmZUM1MzVnFsRHc0aFhha0JsNG15aEhScTU3UlV5QUN3TWlKcFV6cFUrZjdXNmJVZkpGRXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ1NjY5CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMQpTTUJLS053RDhZN3NGZHRvUS9kekJqNnROVS81Mzg0UTRWTXQ5YjVNTFc0Ny96Mmx0L2hKak9UZmlLRnpYb1NVRGlLUUhyTndHbTdvR1kwMjc2dTFDZz09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.1/Reliquary_0.2.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWxOZEF3OFI1OFR4TGZZVEpqQjNEKzR5NXN0WFZobmJ3eEgzcGdlWUJZdWV1eU91Ri9OdE5KTUtwL2VXL2oxWlRIblZ2VUxoa2Z0bG40OVJaa1U3OVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzE4MDM3CWZpbGU6UmVsaXF1YXJ5XzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMAplbVQ3cWxBN0lKT2ZzRVpMcWFkWmhpTWEyMHBPUDA2c29VRnErYzlhKzB3YmtXYk5LRUpGYllaQ0tRYnA2TW1XVVMwemh4d3VTdXhkakY2SVBZTHlDdz09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.0/Reliquary_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNXVjdnMzTzhFVGFPUUJoZ2pPSmRIK1FnSWQ0S3hYOHRSdld4eVhHMXptbVFOMHp0WEtPZ0pIQWNPWFV1T2ZhMnpJSzhxRFNGRmhOWUw5Lzd4WGlyeEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ1Nzg1CWZpbGU6UmVsaXF1YXJ5XzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQpLQ0hDdGR0a2t0MjlsZGFVY1JDVXU2T21LV3Y2WXREcEJDZTBOanBYa0k2bzFURUxMV3lzWXE3RGFoa0MySFkxWDZRRG9PSDJYUEZGM1UwMFVwdzlDUT09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.1/Reliquary_0.2.1_x64-setup.exe"
     }
   }
 }
