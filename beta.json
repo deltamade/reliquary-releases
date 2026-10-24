@@ -1,15 +1,15 @@
 {
-  "version": "0.2.6",
-  "notes": "Scanning on Windows works: Play a Recording\u2026 now plays the video you pick (before, it seemed to end at once), and a recording that can't be played says why. Windows now reads the small set and number at the bottom of each card much better, so more cards get their exact printing. The Mac app is now signed and notarised by Apple, so macOS may ask once more for camera access.",
-  "pub_date": "2026-10-24T22:46:30Z",
+  "version": "0.2.7",
+  "notes": "The scanner now tells printings apart by their artwork when it can't read the small set and number at the bottom of a card: it compares the card with Scryfall's picture of each printing it could be and picks the one that clearly matches. Printings that share the same art and frame are still left for you to choose. On Windows this gets far more cards' exact printing right, small or dim cards included.",
+  "pub_date": "2026-10-24T23:56:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWhxN3ZtU082V2JJcTFMK2JQeFFHR2dGSjhWdmwxSFlzays3TXpQWmdpdCtBOExDZHZ4UjRiVUFUNURmL0FHVW03QjlmRm1oWEFNSk4zVHdaOFBVK3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgxODI3CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNgpBWEk1bmpzbGUwdXJPZWZQeUxmeFk3SkkzVmdnQ1FZSElFUG42b1ZSR25pMjZJNFV0TW1QV1kyMENReGl0eSsxOHNqVGh5cCtqbTZ0TVlMNEtIbUVEdz09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.6/Reliquary_0.2.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWlFVklvczZXS2JlSEtTL1c5VVExdWNWelh0N2pDMnUvcjFnVDNPZGl5UEZWMVFXN09XZGZ0eElqQ3QxU01GV0dCdjU5b2RvM05WY1ZpL1RZcGNtd0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MDM2CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuNwpCMUszQ0p1UkVocllVZldhN0RwOFdWL01hZkhYYm0rdGFkRGgzNEZlZmU0TVViRy9zQm0xeEIvL2Y1ZVpIZ3R6aWsyUVpqUTVnczNXRU9pUmJYc01BQT09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.7/Reliquary_0.2.7_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWcwQzJYNXM4cXc3Q0ZqRUdhUHBiQmNxSGdqT3RhNmU5UUhucmZuUS92UUFTeDZ3VGZhdjZHOU8wcmRmbUtOenNLcnA3cE4vckMzaVhSV3dIeExneVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgxOTkwCWZpbGU6UmVsaXF1YXJ5XzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpsK3NXU0srWG1IR01EMXB1aVAzc09uVjR6Z2NZS0p3b3g0N0dTWm9HSjhIWXdpdDV1dWtDOHhUT2J0OGFidWczczJhTVN2TUpmT2RiUkRHWjV0ZGtCQT09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.6/Reliquary_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNXFOSjAxa0swaUFYY21aVEJLbWNSbm9uZEtweVlrQWF2cnNid3JZYzh4U0tLTzFnMWVEcHcybVEzTUE5SEZvL1BwTDlES2l6ejFvVXFVTnRpY2pWaUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MjA1CWZpbGU6UmVsaXF1YXJ5XzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwplYXF2Y1BFV2Jld2hIaW1hbnI5eEMvUnBYZkJQMWVJVi8rN3lhNWZZazVONnd5OW1YWjM5Z0ZDV21IRE5qak1xaWRRM1lXcU1rakVVaGRiT1R3SkFBdz09Cg==",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.7/Reliquary_0.2.7_x64-setup.exe"
     }
   }
 }
