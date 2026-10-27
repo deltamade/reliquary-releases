@@ -1,15 +1,15 @@
 {
-  "version": "0.2.9",
-  "notes": "Search finds cards by anything on them (type, rules text, flavour text, artist, colour) and by what players call them: ramp, board wipe, mana rock, tribal, aristocrats and more. Scanning reads reprints from The List and older cards better. The card catalog rebuilds once after this update.",
-  "pub_date": "2026-10-27T10:23:46Z",
+  "version": "0.2.10",
+  "notes": "Narrow a search from the bar above the results: Type, Colour, Mana value, Rarity and Format. Choose \"Creature\" to see only creatures, a colour or two, or the cards legal in Commander.",
+  "pub_date": "2026-10-27T11:12:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNW8zNzlRMWJJT2UzTGtCU3MyazJEZCtmcUpDQTAxVVhlY2NwSnVJMnU4aUxKV21jRE5ScXhFeXpXMnRURU1YWjI3S0Z6eDJ0N1I2VzdGWGtqQ1lQUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk2NDQ2CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuOQp3Z2s4Vk5JZzZ3U3JCNGZMT0gyM0x2NE5aRlZpcW1qYkxsVGd2RStsa1NKWUI2R1EyMktTcE5iMFFxOFNaZkJlMTFDMlVqZjAvSDVnREl4S0NrU1lEQT09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.9/Reliquary_0.2.9_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNXRLZ2pBOGo0c0sveFd3SFkyV0FBM0VFd0ZyQVgzTHdpSmg0WnNjOGN4SFI3ZXJrSE9VYVhpdUsrSGlqQjE0L2p0ZkpnUVlZY0I2dnhVUE5NcUp1YXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5MzUyCWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMTAKRDBuTlNqVHEyd1o3R3kwSm9TWVVWdzVUaVpONE1rUkMzUGhadlpVTGg2eGtyMEMxWUtTME04S3h6Szd0K3FOcW1YSzkvREJiVStqbHZHMXRqcEJ0Qmc9PQo=",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.10/Reliquary_0.2.10_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNW9hTWY2NmlHYXRlTWFJcjlFcGtVSGV5WDk5M0NlejJKcTJSU3o2MzYyNWVXM2ZVOUNkRXUvdEdTTmF0UFIzd0ZvZlp2NUZGY1M4NkYzLzdPYXlqbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk2NjI2CWZpbGU6UmVsaXF1YXJ5XzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQprUmJ2VmRnc0JYQUxJY1lvTXE5ZE9JQ3BNSTFCbUpVWko0dzlEeHRBOWJvenFuSnZmWDlZek9wNE1YeERtemR4NWFlbHkyWUVJNEpMdVB6RXpjTGtBdz09Cg==",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.9/Reliquary_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWl0ZzVqdlBYRVJvNDVKQUhEc1pldGpOV1BaRmoydmNrQzZQdjdkUWxwd05PRHZqTmJGWkpNdHZGNi9zNEFWSnRFVVVVZVdMc3EwZkt4L1A3WkkyL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5NTM5CWZpbGU6UmVsaXF1YXJ5XzAuMi4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEwCnExaDZzUktMK0xYWUlkTGpYK0U5UjNTNFNGbnBjVkxWN1ZrTkpzS2tvVGtyNTdGYnlMTVBtQW9vTzNhTW9WejU2VzFhVVRwZHl4bno5VTZ2dkg3a0RRPT0K",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.10/Reliquary_0.2.10_x64-setup.exe"
     }
   }
 }
