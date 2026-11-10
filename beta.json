@@ -1,15 +1,15 @@
 {
-  "version": "0.2.14",
-  "notes": "The app now checks for updates every two hours, and its anonymous statistics are sent when it opens, when it's left alone and every two hours.",
-  "pub_date": "2026-11-10T20:46:06Z",
+  "version": "0.2.15",
+  "notes": "Fixes for updates that install themselves: moving the mouse no longer holds one back, the Mac window comes back the same size, and the Windows taskbar icon is kept. Settings \u203a About says why a ready update is waiting.",
+  "pub_date": "2026-11-10T21:19:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNXBpMiswZU1uTlhXNkh3NjE5bHM1SW5VYmRWVWZYSzUwMTUraXhJLzBrUEZXa3FYaTg3amxtNDFNTmRIMWZuV3RSVEVOUWlWVWRhS0JpbnR3bHRBbGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQzMzg3CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMTQKS0xUZ0czenRVOElTUEFXVWtvZnVpVlRCVkYrNmxRK2VTc0hiTFhmYmpIei90cXRKMHdBbWtUNGVGaG5wekd1T21BMStKS2czTk1INk1aT0dDU3hjRFE9PQo=",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.14/Reliquary_0.2.14_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWdMalZiOHZ3UU9sWUZPczJ0M2U0WHBkT1NUWDFIRzJqb2luOTNmRytGZFBCQ3JkRlFRRjhBT0hldVNwczVMZDlHeU5vclJqaGZYSjFLcmJsUVdNT3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ1NDA2CWZpbGU6UmVsaXF1YXJ5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjIuMTUKVmdXak8xajJockZ6bC9seTVGM1hmbE9UMmx4d0Z4dmZvelF2dHVnS0kzSXloWUhlMSs4M01ZekVLYThYUE5zSC85K2kvcmxVNUhQVTdTemorTE5LQ1E9PQo=",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.15/Reliquary_0.2.15_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNW9WUUp1TDF0eVgrY0dOeG9BNk9TcHVDVElOYStBZ3N3NG82V3VxWUtOcDZrQ1F5Qjl3UUUvR25vWm0rbG0yZHpXVmIzbklqRWtxbDlEZDZuZUJ3M1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQzNTY2CWZpbGU6UmVsaXF1YXJ5XzAuMi4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE0CmgvTVBaT1RUbk9ia01GZWFpZnlyQ0hlN0MwVXUzMU53cnNuZGN6bGZ1bGMrNG04V3NKNk03NVBsQ1JHWVh4V2g3dTZSeGxnamxJaW45ajBVejhoRUJ3PT0K",
-      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.14/Reliquary_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDhEd01CV1NDNWpoMTlQRTNDbXZEaDV6bWVmeTZVUnNrOCtGejNRdE5xbkdhUE5pQzl1TzV5OGI4WTQvNEdXN0pxd0JneXR2TkNkOFFkR3llOUtpUHNLVXFyTVE2eHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzQ1NTg5CWZpbGU6UmVsaXF1YXJ5XzAuMi4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE1ClZtekZvV0t5UWJJUld1d1ZDbXl4QUpLMzZDMGtSNEozS2hwRk1Jbjk2V0hPVHBMUUtjQnROUWpKYlRNWTRXSVFIa29mN1I2cGY4TU4yUFVYYVNub0FRPT0K",
+      "url": "https://github.com/deltamade/reliquary-releases/releases/download/v0.2.15/Reliquary_0.2.15_x64-setup.exe"
     }
   }
 }
